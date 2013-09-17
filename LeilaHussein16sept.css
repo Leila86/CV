@@ -1,0 +1,22 @@
+body{
+	font-family: "Courier New";
+	margin: 20px;
+	background-image: url('img/tragolv2.jpg');
+	color: #616360;
+}
+#kin{
+	float: right;
+}
+h2 {
+	background-image: url('img/marmor.jpg');
+	width: 350px;
+	color: #75587F;
+	padding-left: 0px;
+}
+dt {
+	margin: 20px;
+	font-weight: bold;
+}
+h2:hover {
+	color: #FFF22D;
+}
